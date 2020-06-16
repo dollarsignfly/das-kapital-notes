@@ -22,7 +22,7 @@
    mudpies aren't social use-values, thus the labour contained in
    making them is useless, and doesn't produce any value.
    
-**  Two-fold Character of Labour in Commodities
+*** Two-fold Character of Labour in Commodities
    Labour holds a two-fold composition, just like commodities.
 
    The value of a commoditiy is measured in relation to other
@@ -59,3 +59,6 @@
    
    
    
+
+*** Form of Value or Exchange-Value
+    
