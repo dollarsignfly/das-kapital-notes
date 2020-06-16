@@ -25,4 +25,37 @@
 **  Two-fold Character of Labour in Commodities
    Labour holds a two-fold composition, just like commodities.
 
-   Value
+   The value of a commoditiy is measured in relation to other
+   commodities, at exchange. Ex. the value of a coat, can be
+   represented in an amount of linen, because we exchange coats for
+   linen (or linen for coats). We don't exchange coats for coats. This
+   entails that the value of use-values can be represented in terms of
+   qualitively different use-values consisting of qualitively
+   different labour.
+
+   Societies, whether or not they have a commodity form, have a
+   division of labour. Someone produces bread, someone else produces
+   houses, beds or clothing. 
+
+   Just as the quantum of the commodity accumulation is 1 unit of
+   commodity, there is a similar quantum to be found in the total
+   amount of labour present in a society.
+
+   A larger quantity of use-values is a larger quantity of material wealth.
+
+   Even as productive power varies, labour yields the same amount of
+   total value, across the same time periods. However, as productive
+   power increases, this total value may manifest itself in a larger
+   quantity of use-values, that each represent a less amount of value,
+   than they did before the increase in productiveness. Ex. Without a
+   machine, a worker can in 1 hour produce 1 hamburger. This means
+   that 1 hamburger is effectively worth 1 hour of labour. The worker
+   is now given a new machine, that can produce 100 hamburgers in one
+   hour of labour. The labour still produces 1 hour of labour (the
+   value), but it is represented in terms of a 100 hamburgers each
+   worth 0.01 times the amount of value of 1 hamburger before the
+   machine was introduced.
+
+   
+   
+   
