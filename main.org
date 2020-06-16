@@ -1,6 +1,0 @@
-* Part 1: Commodities and Money
-** Commodities
-
-   A commodity is composed as a two-fold of social use-value and an
-   imbued labour.  The value of a use-value is given by the average
-   socially necessary labour-time imbued into its production

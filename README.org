@@ -1,6 +1,28 @@
 * Part 1: Commodities and Money
 ** Commodities
+*** Two Factors of a Commodity
+   A commodity is composed as a two-fold of social use-value and
+   exchange value.  The value of a use-value is given by the average
+   socially necessary labour-time imbued into its production.
 
-   A commodity is composed as a two-fold of social use-value and an
-   imbued labour.  The value of a use-value is given by the average
-   socially necessary labour-time imbued into its production
+   Greater labour power results in less labour time, therefore less
+   value.
+
+   A thing can be a use-value without having value, if the thing has
+   natural utility, like air or soil (and thus no labour imbued into
+   it).
+
+   Commodities have social utility, therefore a thing created to
+   satisfy the want of own person (which doesn't reflect a general
+   social utility) isn't a commodity, i.e. it wasn't produced for the
+   use of others. Thus things produced to immediately satisfy your own
+   needs, are often not commodities, as they aren't social use-values.
+   
+   Labour can also be useless, thus creating no value. For example,
+   mudpies aren't social use-values, thus the labour contained in
+   making them is useless, and doesn't produce any value.
+   
+**  Two-fold Character of Labour in Commodities
+   Labour holds a two-fold composition, just like commodities.
+
+   Value
