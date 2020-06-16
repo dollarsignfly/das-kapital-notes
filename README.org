@@ -61,4 +61,35 @@
    
 
 *** Form of Value or Exchange-Value
+    The simplest relation of value is that of between two commodities. This is represented as
+    
+    > x commodity A = y commodity B
+
+    Where each side of the equation represents the value of either
+    commodity.
+
+    Commodities are said to assume a relative form of expressed value,
+    if its value is expressed in a quantity of another commodity. As
+    aforementioned, its impossible to express the value of a
+    commodity, in terms of the same commodity. `1 commodity A = 1
+    commodity A`, and from this, we cannot infer value.
+
+    (2.a) is difficult to understand, mainly because it attempts to
+    demonstrate how the relative value equations infer value of a
+    commodity, and how equating materially different commodities to
+    infer value is possible. We should draw from this that, value, is
+    a medium for which we can relate all commodities to eachother.
+
+    (2.a) further attempts to show that, value is essentially the
+    accumulation of useful labour in a thing, and again, what exactly
+    the relative form of value is.
+
+    (2.b) presents a few interesting examples. One of these examples
+    (case II), shows that the relative value equations may change
+    depending on if the value in each related commodity changes. If 20
+    yards of linen = 0.5 coat, and the productive power for linens is
+    doubled, then the relative value of linens will now be expressed
+    as `10 yards of linen = 0.5 coat`, or `20 yards of linen = 0.25` coat.
+    
+    
     
