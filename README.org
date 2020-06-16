@@ -60,19 +60,20 @@
    
    
 
-*** Form of Value or Exchange-Value
-    The simplest relation of value is that of between two commodities. This is represented as
-    
-    > x commodity A = y commodity B
+*** The Relative Form of Value
+    Keep in mind that the relative form of value manifests at exchange
+    i.e. exchange-value.
 
-    Where each side of the equation represents the value of either
+    The simplest relation of value is that of between two
+    commodities. This is represented as ~x commodity A = y commodity B~,
+    where each side of the equation represents the value of either
     commodity.
 
     Commodities are said to assume a relative form of expressed value,
     if its value is expressed in a quantity of another commodity. As
     aforementioned, its impossible to express the value of a
-    commodity, in terms of the same commodity. `1 commodity A = 1
-    commodity A`, and from this, we cannot infer value.
+    commodity, in terms of the same commodity. ~1 commodity A = 1
+    commodity A~, and from this, we cannot infer value.
 
     (2.a) is difficult to understand, mainly because it attempts to
     demonstrate how the relative value equations infer value of a
@@ -89,7 +90,19 @@
     depending on if the value in each related commodity changes. If 20
     yards of linen = 0.5 coat, and the productive power for linens is
     doubled, then the relative value of linens will now be expressed
-    as `10 yards of linen = 0.5 coat`, or `20 yards of linen = 0.25` coat.
+    as ~10 yards of linen = 0.5 coat~, or ~20 yards of linen = 0.25~ coat.
+    
+    Another example (case III) in (2.b) shows that, given a proportional
+    rise in productiveness for e.g. both linen and coats (formerly
+    expressed as ~10 yards of linen = 0.5 coat~, their relative value
+    equation remains constant. Each of their respective value is
+    decreasing with the increase in productiveness, but still the
+    equation holds that ~10 yards of linen = 0.5 coat~. However, we can
+    immediately see that their value has changed, if we relate either
+    commodity (linen or coat) to a third commodity with an unchanging
+    productiveness.
+
+*** The Equivalent Form of Value
     
     
     
